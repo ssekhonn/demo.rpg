@@ -35,6 +35,7 @@
   "name":"RPG",
   "resources":[
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"RM_WORLD","path":"rooms/RM_WORLD/RM_WORLD.yy",},},
     {"id":{"name":"Overworld","path":"sprites/Overworld/Overworld.yy",},},
     {"id":{"name":"spr_aby_right","path":"sprites/spr_aby_right/spr_aby_right.yy",},},
@@ -42,7 +43,6 @@
     {"id":{"name":"spr_baby_left","path":"sprites/spr_baby_left/spr_baby_left.yy",},},
     {"id":{"name":"spr_baby_up","path":"sprites/spr_baby_up/spr_baby_up.yy",},},
     {"id":{"name":"T_WORLD","path":"tilesets/T_WORLD/T_WORLD.yy",},},
-    {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
