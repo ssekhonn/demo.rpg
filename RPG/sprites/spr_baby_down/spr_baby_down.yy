@@ -1,11 +1,11 @@
 {
   "$GMSprite":"",
-  "%Name":"NPC_test",
+  "%Name":"spr_baby_down",
   "bboxMode":0,
-  "bbox_bottom":123,
+  "bbox_bottom":91,
   "bbox_left":1,
   "bbox_right":62,
-  "bbox_top":7,
+  "bbox_top":70,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -19,9 +19,12 @@
   "height":128,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"9d4bad4b-78a1-455a-a29a-8222d7619865","blendMode":0,"displayName":"default (2) (2) (2)","isLocked":false,"name":"9d4bad4b-78a1-455a-a29a-8222d7619865","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"9ad3b099-6c30-4520-a798-a33c3db95429","blendMode":0,"displayName":"default (2) (2)","isLocked":false,"name":"9ad3b099-6c30-4520-a798-a33c3db95429","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"0bb4f2aa-77ee-4fb7-b18b-c0f17d0d4a6b","blendMode":0,"displayName":"default (2)","isLocked":false,"name":"0bb4f2aa-77ee-4fb7-b18b-c0f17d0d4a6b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"3df995d5-b7cb-4ec9-b48d-e25e27ea1033","blendMode":0,"displayName":"default","isLocked":false,"name":"3df995d5-b7cb-4ec9-b48d-e25e27ea1033","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"NPC_test",
+  "name":"spr_baby_down",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +36,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"NPC_test",
+    "%Name":"spr_baby_down",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +60,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"NPC_test",
+    "name":"spr_baby_down",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -69,7 +72,7 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1dc8d338-a625-496c-9445-ce7656a2dfb3","path":"sprites/NPC_test/NPC_test.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"1dc8d338-a625-496c-9445-ce7656a2dfb3","path":"sprites/spr_baby_down/spr_baby_down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"f26c06fc-412b-4dd2-8192-abb14851e55d","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

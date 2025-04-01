@@ -1,26 +1,23 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"T_WORLD",
+  "%Name":"TileSet2",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"T_WORLD",
-  "out_columns":38,
+  "name":"TileSet2",
+  "out_columns":0,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Tile Sets",
-    "path":"folders/Tile Sets.yy",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":{
-    "name":"Overworld",
-    "path":"sprites/Overworld/Overworld.yy",
-  },
+  "spriteId":null,
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -34,5 +31,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":1476,
+  "tile_count":0,
 }
